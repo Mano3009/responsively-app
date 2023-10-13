@@ -29,14 +29,14 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome">
   </a>
   
-   <a href="https://opencollective.com/responsively" target="_blank">
+   <a href="https://github.com/Mano3009" target="_blank">
     <img alt="Open Collective backers and sponsors" src="https://img.shields.io/opencollective/all/responsively">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.producthunt.com/posts/responsively?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-responsively" target="_blank">
-    <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=200375&theme=light&period=daily" alt="ProductHunt">
+    <img src="https://image.lexica.art/md2/0b0b8cbc-6959-4b19-a8e7-59058d67a525" alt="Manoj Kumar Mohan">
   </a>
 </p>
 
